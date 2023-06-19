@@ -1,0 +1,4 @@
+git init
+git add "name" or git add . //for everything
+git status 
+git commit -m "text" 
