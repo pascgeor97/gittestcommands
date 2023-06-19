@@ -3,3 +3,4 @@ git add "name" or git add . //for everything
 git status // check the status 
 git commit -m "text" // commit the files
 git diff "name" //checks the difference in a file
+git checkout "name" // roll back all the changes that happen to the specific file
