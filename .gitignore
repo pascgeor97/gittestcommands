@@ -1,0 +1,5 @@
+secrets.txt
+
+#you can comment like that
+
+# *.txt  // ignores all text files from folder
