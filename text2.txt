@@ -2,7 +2,12 @@ git init // adds git in a folder
 git add "name" or git add . //add everything in stage
 git rm --cached -r . //remove everything from stage
 git status // check the status 
+git log //check the version control
 git commit -m "text" // commit the files
 git diff "name" //checks the difference in a file
 git checkout "name" // roll back all the changes that happen to the specific file
 touch .gitignore // a file that ignires git
+git clone "url" // download git repositories
+git branch "name" // creates a new branch
+git branch // checks all the branches
+git checkout "branch-name" // changes branch
