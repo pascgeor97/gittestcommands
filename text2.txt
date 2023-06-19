@@ -1,4 +1,5 @@
-git init
+git init // adds git in a folder
 git add "name" or git add . //for everything
-git status 
-git commit -m "text" 
+git status // check the status 
+git commit -m "text" // commit the files
+git diff "name" //checks the difference in a file
