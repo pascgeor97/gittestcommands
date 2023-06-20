@@ -11,3 +11,6 @@ git clone "url" // download git repositories
 git branch "name" // creates a new branch
 git branch // checks all the branches
 git checkout "branch-name" // changes branch
+git merge "name of branch" // need to be in the main branch and use the name of the branch you want to merge
+:q! // to quit when you don't want to use a message to commits
+git push origin main/master -u // to push it to the main branch on github
